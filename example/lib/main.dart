@@ -23,6 +23,7 @@ class _MyAppState extends State<MyApp> {
   void initState() {
     super.initState();
     initPlatformState();
+    WebviewCacheClear.clearCache();
   }
 
   // Platform messages are asynchronous, so we initialize in an async method.
