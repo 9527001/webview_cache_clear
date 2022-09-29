@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - webview_cache_clear (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - webview_cache_clear (from `.symlinks/plugins/webview_cache_clear/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  webview_cache_clear:
+    :path: ".symlinks/plugins/webview_cache_clear/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  webview_cache_clear: 4b5450716a38cefaec59f054224040790f7966aa
+
+PODFILE CHECKSUM: 663715e941f9adb426e33bf9376914006f9ea95b
+
+COCOAPODS: 1.11.3
